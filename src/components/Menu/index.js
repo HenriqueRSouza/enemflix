@@ -3,20 +3,20 @@ import Logo from '../../assets/img/Logo.png';
 import './Menu.css';
 import ButtonLink from '../ButtonLink';
 import Button from '../Button';
-
+import {Link} from 'react-router-dom';
 
 function Menu (){
     return(
-        <nav className="Menu">
-            <a href="/">
+    <nav className="Menu">
+          <Link to="/">
             <img class="Logo" src={Logo} />
-            </a>
+        </Link>
 
-            <Button as="a" className="ButtonLink"href="/">
-                Mais Matérias 
-            </Button>
-        </nav>
-    );
+        <Button as={Link} className="ButtonLink"to="/Cadastro/Video/index.js">
+            Mais Matérias 
+        </Button>
+    </nav>
+ );
 }
 
 export default Menu;
