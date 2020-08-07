@@ -13,7 +13,7 @@ function Menu (){
         </Link>
 
         <Button as={Link} className="ButtonLink"to="/Cadastro/Video/index.js">
-            Mais Matérias 
+            Adicionar Materia  
         </Button>
     </nav>
  );

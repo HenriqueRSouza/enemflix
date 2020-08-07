@@ -5,10 +5,10 @@ import { Link } from 'react-router-dom';
 function CadastroVideo (){
     return(
         <PageDefault>
-            <h1>Cadastro de Video</h1>
+            <h1>Pagina de cadastro</h1>
 
             <Link to='/cadastro/Categoria/'>
-                Cadastrar Vídeo
+                Cadastrar Categoria 
             </Link>
         </PageDefault>
     )
