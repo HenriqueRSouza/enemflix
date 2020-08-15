@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 
 import PageDefault from '../../../components/PageDefault';
 
+import FormField from '../../../components/FormField';
+
 function CadastroCategoria (){
     const valoresIniciais = {
         nome: "",
@@ -39,55 +41,47 @@ function CadastroCategoria (){
 
                 setValues(valoresIniciais)
             }}>
-            <div>
-                <label>
-                    Nome Da Categoria:
-                    <input 
-                        type="text" 
-                        name="nome"
-                        value={values.name}
-                        onChange={ Handle}
-                    />
-                </label>
-            </div>
-            <div> 
-                <label>
-                    Descrição Da Categoria:
-                    <textarea 
-                        type="text" 
-                        value={values.descricao}
-                        name="descricao"
-                        onChange={Handle}
-                    />
-                </label>
-            </div>
             
-            <div> 
-                <label>
-                    Cor Da Categoria:
-                    <input 
-                        type="color" 
-                        value={values.cor}
-                        name="cor"
-                        onChange={ Handle}
-                    />
-                </label>
-            </div>   
+            <FormField 
+                label="Nome da Categoria"
+                type="text"
+                name="nome"
+                value={values.nome}
+                onChange={Handle}
+            />
+
+            <FormField 
+                label="Descricao da Categoria"
+                type="textarea"
+                value={values.descricao}
+                name="descricao"
+                onChange={Handle}
+            />
+
+            <FormField 
+                label="Cor da Categoria"
+                value={values.cor}
+                onChange={ Handle}
+                type="color"
+                name="cor"
+            />
+            
                 <button>
                     Cadastrar
                 </button>
             </form>
-        <ul>
-            {categorias.map((categoria, indice) => {
-                return(
-                      <li key={`${categoria}${indice}`}>
-                        {categoria.nome}
-                    </li>
+
+    <ul>
+        {categorias.map((categoria, indice) => {
+            return(
+                <li key={`${categoria}${indice}`}>
+                    {categoria.nome} || {categoria.descricao}
+                </li>
                 )
             })}
-        </ul>
+    </ul>
           
-        </PageDefault>
-      );
-    }
+    </PageDefault>
+ );
+}
 export default CadastroCategoria;
