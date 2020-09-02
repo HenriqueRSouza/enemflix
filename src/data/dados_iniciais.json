@@ -1,11 +1,11 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Matemática",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "blue",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Tudo o que você precisa em Matemática para passar nos Vestibulares",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -40,14 +40,14 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Português",
+      "cor": "red",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Tudo o que você precisa em Português para passar nos Vestibulares",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -74,10 +74,10 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Biologia",
+      "cor": "green",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Tudo o que você precisa em Biologia para passar nos Vestibulares",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -100,8 +100,12 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Química",
       "cor": "orange",
+      "link_extra": {
+        "text": "Tudo o que você precisa em Química para passar nos Vestibulares",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,8 +126,12 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Física",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Tudo o que você precisa em Física para passar nos Vestibulares",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -152,8 +160,46 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "História",
       "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Tudo o que você precisa em História para passar nos Vestibulares",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Geografia",
+      "cor": "green",
+      "link_extra": {
+        "text": "Tudo o que você precisa em História para passar nos Vestibulares",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
