@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Matemática",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://www.youtube.com/watch?v=cRBd6hx3nMs",
       "cor": "blue",
       "link_extra": {
         "text": "Tudo o que você precisa em Matemática para passar nos Vestibulares",
@@ -11,11 +11,11 @@
       "videos": [
         {
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "url": "https://www.youtube.com/watch?v=cRBd6hx3nMs"
         },
         {
           "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "url": "https://www.youtube.com/watch?v=jT8YO2_QKEw"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",

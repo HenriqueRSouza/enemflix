@@ -1,6 +1,7 @@
 import React from "react";
 import Logo from "../../assets/img/Logo.png";
-import "./Menu.css";
+import Logo_Netflix from "../assetsLogin/Logo_Netflix.PNG";
+import "./Menu2.css";
 
 import { Link } from "react-router-dom";
 
@@ -9,6 +10,9 @@ function Menu2() {
     <nav className="Menu">
       <Link to="/studant">
         <img className="Logo" src={Logo} />
+      </Link>
+      <Link to="/">
+        <img className="ButtonLink2" src={Logo_Netflix} />
       </Link>
     </nav>
   );
