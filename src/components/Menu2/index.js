@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/img/Logo.png";
+import LogoNetflix from "../../assets/img/Logo.png";
 import "./style.css";
 import Logo_Netflix from "../assetsLogin/Logo_Netflix.PNG";
 
@@ -10,7 +10,7 @@ function Menu2() {
   return (
     <nav className="Menu2">
       <Link to="/">
-        <img className="Logo" src={Logo} />
+        <img className="LogoNetflix" src={LogoNetflix} />
       </Link>
 
       <ButtonNetflix as={Link} className="ButtonLinkNet" to="/">

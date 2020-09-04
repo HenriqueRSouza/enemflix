@@ -1,17 +1,19 @@
-.Logo {
+.LogoNetflix {
   max-width: 168px;
 }
 @media (max-width: 800px) {
-  .Logo {
+  .LogoNetflix {
     max-width: 105px;
   }
 }
+
 .ButtonNetflix {
   width: 60px;
   height: 60px;
   opacity: 0.4;
   border-radius: 0;
   border: 0;
+  text-align: center;
 }
 .ButtonNetflix,
 .ButtonLinkNet:hover,
@@ -28,6 +30,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   position: fixed;
   top: 0;
   left: 0;
@@ -37,6 +40,21 @@
 
   background-color: var(--black);
 }
+body {
+  --bodyPaddingTop: 94px;
+  padding-top: var(--bodyPaddingTop);
+}
+@media (max-width: 800px) {
+  .Menu2 {
+    height: 40px;
+    justify-content: center;
+  }
+  body {
+    --bodyPaddingTop: 40px;
+    padding-top: var(--bodyPaddingTop);
+  }
+}
+
 .ButtonLinkNet {
   cursor: pointer;
   outline: none;
