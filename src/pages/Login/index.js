@@ -7,20 +7,18 @@ import "./index.css";
 
 function Login() {
   return (
-    <ul className="Login">
-      <li>
-        <h1>Quem esta assitindo a EnemFlix ?</h1>
-        <Link to="/studant" className="Logo_Netflix">
-          <img src={Logo_Netflix} />
-          <p>Estudante</p>
-        </Link>
+    <li className="Login">
+      <h1>Quem esta assitindo a EnemFlix ?</h1>
+      <Link to="/studant" className="Logo_Netflix">
+        <img src={Logo_Netflix} />
+        <p>Estudante</p>
+      </Link>
 
-        <Link to="/adm" className="Logo_Netflix2">
-          <img src={Logo_Netflix2} />
-          <p>Administrador</p>
-        </Link>
-      </li>
-    </ul>
+      <Link to="/adm" className="Logo_Netflix2">
+        <img src={Logo_Netflix2} />
+        <p>Administrador</p>
+      </Link>
+    </li>
   );
 }
 

@@ -1,0 +1,59 @@
+.Logo {
+  max-width: 168px;
+}
+@media (max-width: 800px) {
+  .Logo {
+    max-width: 105px;
+  }
+}
+.ButtonNetflix {
+  width: 60px;
+  height: 60px;
+  opacity: 0.4;
+  border-radius: 0;
+  border: 0;
+}
+.ButtonNetflix,
+.ButtonLinkNet:hover,
+.ButtonNetflix,
+.ButtonLinkNet:focus {
+  opacity: 15;
+}
+
+.Menu2 {
+  width: 100%;
+  height: 94px;
+  z-index: 100;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-left: 5%;
+  padding-right: 2%;
+
+  background-color: var(--black);
+}
+.ButtonLinkNet {
+  cursor: pointer;
+  outline: none;
+  display: inline-block;
+  border: black;
+}
+
+@media (max-width: 800px) {
+  a.ButtonLinkNet {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--primary);
+    border-radius: 0;
+    border: 0;
+    opacity: 0.8;
+    text-align: center;
+  }
+}
