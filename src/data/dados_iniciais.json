@@ -2,44 +2,39 @@
   "categorias": [
     {
       "titulo": "Matemática",
-      "link": "https://www.youtube.com/watch?v=cRBd6hx3nMs",
       "cor": "blue",
       "link_extra": {
         "text": "Tudo o que você precisa em Matemática para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "url": "https://www.youtube.com/results?search_query=matematica+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=cRBd6hx3nMs"
+          "titulo": "",
+          "url": "https://youtu.be/n7_9QC8nqVc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=jT8YO2_QKEw"
+          "titulo": "",
+          "url": "https://youtu.be/kx_kRtRogfs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "",
+          "url": "https://youtu.be/myS0xE4XMJc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "",
+          "url": "https://youtu.be/-kFkuERvdDA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "",
+          "url": "https://youtu.be/mgUGjJc9cTw"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "",
+          "url": "https://youtu.be/FjwhaKzaiuM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": "https://youtu.be/qCr6Kc3DroM"
         }
       ]
     },
@@ -48,28 +43,28 @@
       "cor": "red",
       "link_extra": {
         "text": "Tudo o que você precisa em Português para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "url": "https://www.youtube.com/results?search_query=portugu%C3%AAs+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "",
+          "url": "https://youtu.be/QqJY9n5R3WI"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "",
+          "url": "https://youtu.be/XiKtbYnFk5M"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "",
+          "url": "https://youtu.be/PYGzF4b0Kbk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "",
+          "url": "https://youtu.be/Jn3f8Qze5Vw"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Qhpu6eVJFjE"
         }
       ]
     },
@@ -78,23 +73,23 @@
       "cor": "green",
       "link_extra": {
         "text": "Tudo o que você precisa em Biologia para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://www.youtube.com/results?search_query=biologia+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
+          "titulo": "",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "O que é Data Science?",
+          "titulo": "",
           "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
+          "titulo": "",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
+          "titulo": "",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
@@ -104,24 +99,32 @@
       "cor": "orange",
       "link_extra": {
         "text": "Tudo o que você precisa em Química para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://www.youtube.com/results?search_query=quimica+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=UT6qgwjRgH8"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=9DlTp2ew_ew"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=gPBcQBKwhUE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=73t2hgHVmbE"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=HMULXrvisOU"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=4zyWZlx7vVE"
         }
       ]
     },
@@ -130,32 +133,28 @@
       "cor": "purple",
       "link_extra": {
         "text": "Tudo o que você precisa em Física para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "url": "hhttps://www.youtube.com/results?search_query=fisica+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=4Vbw3Z8NQfc"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=x0iYkv8WKV0"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=s3pJbHqoWT8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=FNtF-nR6Qao"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=ivwpGB0BRFA"
         }
       ]
     },
@@ -164,32 +163,32 @@
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Tudo o que você precisa em História para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "url": "https://www.youtube.com/results?search_query=historia+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=2PPd0Cui6FU"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=iXVyt5cApCU"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=V2x-vy-wFt0"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=HGrq8Eit31E"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=LzaCE3RKAZ4"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=j_SR-Ocxoh8"
         }
       ]
     },
@@ -197,33 +196,29 @@
       "titulo": "Geografia",
       "cor": "green",
       "link_extra": {
-        "text": "Tudo o que você precisa em História para passar nos Vestibulares",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Tudo o que você precisa em Geografia para passar nos Vestibulares",
+        "url": "https://www.youtube.com/results?search_query=geografia+para+o+enem+2020"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=qEjnjiE8TRk"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=FOnb4-VKF4A"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=qCxaDtPXJFw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Z_Pb2hWneog"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=KZHfrjhqwFo"
         }
       ]
     }
