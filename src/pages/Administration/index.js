@@ -1,14 +1,14 @@
 import React from "react";
-import Menu2 from "../../components/Menu2/index.js";
+import Menu from "../../components/Menu/index.js";
+import BannerMain from "../../components/BannerMain/index.js";
 import dadosIniciais from "../../data/dados_iniciais.json";
 import Carousel from "../../components/Carousel/index.js";
 import Footer from "../../components/Footer/index";
-import BannerMain from "../../components/BannerMain/index.js";
 
-function Home() {
+function Administration() {
   return (
     <div style={{ background: "#141414" }}>
-      <Menu2 />
+      <Menu />
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
@@ -26,4 +26,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Administration;

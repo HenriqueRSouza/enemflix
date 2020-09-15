@@ -1,20 +1,4 @@
 {
-  "users": [
-    {
-      "user1": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "user2": [
-            {
-              "titulo": "Administrador",
-              "url": "/"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "user1": [{ "name": "Admin", "password": "1234" }],
+  "user2": [{ "name": "Carlos Grillo", "password": "1234" }]
 }

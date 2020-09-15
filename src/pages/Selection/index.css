@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+}
+
+.Selection::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+.Logo_Netflix {
+  display: inline-block;
+  margin-top: 100px;
+  width: 150px;
+  height: 150px;
+  color: var(--white);
+  margin-right: auto;
+  margin-left: auto;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  opacity: 0.5;
+}
+.Logo_Netflix:hover,
+.Logo_Netflix:focus {
+  opacity: 15;
+  border: 5px solid var(--white);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.Logo_Netflix2 {
+  display: inline-block;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 150px;
+  height: 150px;
+  color: var(--white);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  opacity: 0.5;
+}
+.Logo_Netflix2:hover,
+.Logo_Netflix2:focus {
+  opacity: 15;
+  border: 5px solid var(--white);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.li_Selection {
+  text-align: center;
+  list-style: none;
+  color: white;
+  width: 100%;
+}
+.NavNet {
+  width: 100%;
+  padding: 0px;
+}
