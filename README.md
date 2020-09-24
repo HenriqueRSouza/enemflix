@@ -1,5 +1,7 @@
-### Enemflix
+![Logo](https://user-images.githubusercontent.com/61210736/94147634-eb2fc480-fe4b-11ea-8954-9d111d8ad510.png)
+
 Português- Pt_Br
+
 Para começar voce terá que fazer o download dos arquivos e de alguns programas para que tudo funcione bem.
   Intalar o [Node.Js](https://nodejs.org/en/)
 >OBS: Se quiser poderá utilizar o editor de texto de sua preferencia, eu recomendo utilizar o [VSCode](https://code.visualstudio.com/), tudo irá funcionar normal com qualquer outro editor.
