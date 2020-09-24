@@ -4,7 +4,7 @@ Para começar voce terá que fazer o download dos arquivos e de alguns programas
   Intalar o [Node.Js](https://nodejs.org/en/)
 >OBS: Se quiser poderá utilizar o editor de texto de sua preferencia, eu recomendo utilizar o [VSCode](https://code.visualstudio.com/), tudo irá funcionar normal com qualquer outro editor.
 
-_Instalar os arquivos do GitHub que são fundamentais !!_
+**Instalar os arquivos do GitHub que são fundamentais !!**
 Feito isso você precisará entrar no CMD ou Terminal dependendo do sistema utilizado.
 Se você estiver usando o VScode poderá acessar o terminal por lá mesmo pelas teclas ( Control + ' ).
 Entre na pasta raiz a onde está os arquivos:
@@ -28,7 +28,7 @@ To start you will have to download the files and some programs for everything to
   Install [Node.Js](https://nodejs.org/en/)
 > NOTE: If you want you can use the text editor of your choice, I recommend using [VSCode] (https://code.visualstudio.com/), everything will work normally with any other editor.
 
-_Install the GitHub files that are essential !! _
+**Install the GitHub files that are essential !!**
 Once this is done, you will need to enter the CMD or Terminal depending on the system used.
 If you are using VScode you can access the terminal right there using the keys (Control + ').
 Enter the root folder where the files are located:
