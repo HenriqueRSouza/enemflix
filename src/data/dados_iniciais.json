@@ -9,6 +9,10 @@
       },
       "videos": [
         {
+          "titulo":"Polinômios",
+          "url":"https://www.youtube.com/watch?v=RevbMgyMQmg&list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k"
+        },
+        {
           "titulo": "",
           "url": "https://youtu.be/n7_9QC8nqVc"
         },
@@ -77,20 +81,24 @@
       },
       "videos": [
         {
-          "titulo": "",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo":"Genética",
+          "url":"https://www.youtube.com/watch?v=Xl8fN49EQtQ&list=PLY5MYiqfdapP9w_mpbFILjElWpmua1g3T"
         },
         {
           "titulo": "",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "url": "https://www.youtube.com/watch?v=I-2AK5Jq6Rs"
         },
         {
           "titulo": "",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "url": "https://www.youtube.com/watch?v=Gnr0ObQxY54"
         },
         {
           "titulo": "",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "url": "https://www.youtube.com/watch?v=VwRVOcqWo2o&t=1s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=QchxhliCzHM"
         }
       ]
     },
