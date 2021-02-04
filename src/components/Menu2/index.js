@@ -10,11 +10,11 @@ function Menu2() {
   return (
     <nav className="Menu2">
       <Link to="/">
-        <img className="LogoNetflix" src={LogoNetflix} />
+        <img className="LogoNetflix" src={LogoNetflix} alt="logo" />
       </Link>
 
       <ButtonNetflix as={Link} className="ButtonLinkNet" to="/">
-        <img className="ButtonNetflix" src={Logo_Netflix} />
+        <img className="ButtonNetflix" src={Logo_Netflix} alt="logo"/>
       </ButtonNetflix>
     </nav>
   );

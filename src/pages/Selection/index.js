@@ -11,12 +11,12 @@ function Selection() {
       <Navegation />
       <h1>Quem esta assitindo a EnemFlix ?</h1>
       <Link to="/studant" className="Logo_Netflix">
-        <img src={Logo_Netflix} />
+        <img src={Logo_Netflix} alt="logo"/>
         <p>Estudante</p>
       </Link>
 
       <Link to="/adm" className="Logo_Netflix2">
-        <img src={Logo_Netflix2} />
+        <img src={Logo_Netflix2} alt="logo"/>
         <p>Administrador</p>
       </Link>
     </li>
